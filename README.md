@@ -81,4 +81,30 @@ I have developed a robust skill set in utilizing AWS services to streamline oper
 
 ---
 
+## 🛠️ Skills Logos
+
+Here are the logos representing my technical skills:
+
+| Skill        | Logo                                                                                     |
+|--------------|------------------------------------------------------------------------------------------|
+| AWS          | ![AWS](https://upload.wikimedia.org/wikipedia/commons/4/4e/Amazon_Web_Services_Logo.svg) |
+| Kubernetes   | ![Kubernetes](https://kubernetes.io/images/favicon.ico)                                   |
+| Jenkins      | ![Jenkins](https://www.jenkins.io/images/logos/jenkins.png)                             |
+| Docker       | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png) |
+| Maven        | ![Maven](https://maven.apache.org/images/maven-logo-black-on-white.png)                 |
+| Terraform    | ![Terraform](https://www.terraform.io/assets/images/logo-hashicorp-terraform.svg)       |
+| GitHub       | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  |
+| GitLab       | ![GitLab](https://about.gitlab.com/images/press/logo/png/gitlab_logo.png)               |
+| ArgoCD       | ![ArgoCD](https://argoproj.github.io/argo-cd/assets/images/argocd-logo.png)           |
+| Nginx        | ![Nginx](https://www.nginx.com/wp-content/themes/nginx/assets/img/nginx_logo.svg)      |
+| SonarQube    | ![SonarQube](https://www.sonarqube.org/images/logo.png)                                 |
+| Azure        | ![Azure](https://azure.microsoft.com/svghandler/Azure.svg?width=200&height=200)        |
+| Prometheus   | ![Prometheus](https://prometheus.io/assets/prometheus_logo.svg)                         |
+| Grafana      | ![Grafana](https://grafana.com/static/img/grafana_icon.svg)                             |
+| Python       | ![Python](https://www.python.org/community/logos/python-logo.png)                       |
+| SQL          | ![SQL](https://upload.wikimedia.org/wikipedia/en/d/d5/SQL_Logo.svg)                    |
+| Bash Scripting | ![Bash Scripting](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bash_logo.svg/1200px-Bash_logo.svg.png)|
+
+---
+
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊✨
