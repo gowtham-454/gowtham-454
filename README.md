@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Gowtham Kadiyam**!
 
-Welcome to my GitHub profile! I am an **AWS DevOps Engineer** with over **3 years of experience**, currently working at **Tata Consultancy Services (TCS)**. My expertise lies in **cloud computing** and **automation**, focusing on **continuous integration and delivery (CI/CD)** practices.
+Welcome to my GitHub profile! I am a **DevOps Engineer** with over **3 years of experience** and having expertise on **AWS**, currently working at **Tata Consultancy Services (TCS)**. My expertise lies in **cloud computing** and **automation**, focusing on **continuous integration and delivery (CI/CD)** practices.
 
 ---
 
