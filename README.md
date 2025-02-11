@@ -39,7 +39,7 @@ I have developed a robust skill set in utilizing AWS services to streamline oper
 - Terraform, CloudFormation
 
 ### 📈 Monitoring & Logging
-- Prometheus, Grafana
+- Prometheus, Grafana, ELK
 
 ### 🐳 Containerization
 - Docker, Kubernetes
