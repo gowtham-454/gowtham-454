@@ -1,84 +1,55 @@
 # 👋 Hello, I'm **Gowtham Kadiyam**!
 
-Welcome to my GitHub profile! I am a **DevOps Engineer** with over **3 years of experience** and having expertise on **AWS**, currently working at **Tata Consultancy Services (TCS)**. My expertise lies in **cloud computing** and **automation**, focusing on **continuous integration and delivery (CI/CD)** practices.
+**Platform Engineer | 4 + Yrs Exp | Cloud Pak for Data (CP4D) @ IBM Software Labs **
+*Architecting Scalable, Ephemeral Infrastructure for Data & AI Teams.*
 
 ---
 
-## 📫 Contact Information
-- 📧 **Email:** [Kadiyam.gj@gmail.com](mailto:Kadiyam.gj@gmail.com)
+## 🚀 Professional Mission
+I specialize in managing the high-scale infrastructure lifecycle of **Cloud Pak for Data (CP4D)**. My core responsibility is ensuring the reliability, scalability, and "freshness" of the **Internal Developer Platform (IDP)**, managing **70+ microservices** across a distributed fleet of **10+ OpenShift clusters** on a daily basis.
+
+---
+
+## 🏗️ Daily Platform Operations (The "Main" Job)
+
+My day-to-day focus is on **Infrastructure Reliability** and **Environment Orchestration** at scale:
+
+* **Ephemeral Cluster Lifecycle Management:** I am responsible for the daily "Fresh Provisioning" of our infrastructure. Using the **Fyre API**, I orchestrate the creation of 10+ new OpenShift clusters every morning and ensure their decommissioning at EOD to optimize resource utilization and maintain zero-drift environments.
+* **Scale Management (70+ Services):** I manage the deployment and health of 60-70+ microservices daily. This involves complex dependency management and ensuring all services are correctly configured and running across the distributed cluster fleet.
+* **GPU Infrastructure Stewardship:** I manage specialized **GPU-attached clusters** dedicated to AI/ML workloads. This includes performing daily deep-cleans and state-reconciliation to ensure these high-value resources are "like-new" for every test cycle.
+* **Self-Service Enablement (The Paved Road):** I maintain the **Golden Path** pipelines that allow 50+ developers to trigger their own cluster builds. By providing a parameterized interface (CPU, RAM, Storage), I eliminate the need for manual infrastructure tickets.
+* **GitOps & Consistency:** I utilize **ArgoCD** as the source of truth to synchronize application states across the fleet, resolving any configuration drift in real-time to ensure production-parity.
+* **Stakeholder Reporting:** I act as the bridge between infrastructure and product management, providing automated "Go/No-Go" signals for the CP4D product suite based on daily BVT (Build Verification Testing) outcomes.
+
+---
+
+## 🛠️ Internal Tooling & Automation (Supporting the Mission)
+
+To support the scale of my daily operations, I have developed specialized automation tools:
+
+* **Intelligent Diagnostic Engine (Python + Bash):** A diagnostic suite that scans the 10+ clusters for "Bad Pods," automatically extracts logs/descriptions, and audits Helm chart versions—reducing manual troubleshooting time by 90%.
+* **Closed-Loop Incident Automation:** An event-driven system that automatically **creates and updates GitHub Issues** when BVT jobs fail, ensuring developers receive instant, contextual feedback (logs/metadata) without human intervention.
+* **ChatOps Integration:** A Slack-based reporting bot that fetches real-time cluster telemetry and broadcasts high-fidelity status reports to manager-level stakeholders.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Platforms** | Red Hat OpenShift, Kubernetes (EKS/Local), IBM Fyre |
+| **GitOps & CI/CD** | **ArgoCD**, Jenkins, GitHub Actions, GitLab CI |
+| **Infrastructure** | Terraform, Ansible, Crossplane, Helm Charts |
+| **Languages** | Python (Automation), Bash, SQL |
+| **Observability** | Prometheus, Grafana, ELK, Slack ChatOps |
+| **Cloud** | AWS (EC2, S3, IAM, RDS, Lambda, VPC, Cloudfront), IBM Cloud |
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** [kadiyam.gj@gmail.com](mailto:kadiyam.gj@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/gowtham-kadiyam](https://www.linkedin.com/in/gowtham-kadiyam)
 - 📞 **Phone:** +91 9177847988
 
 ---
-
-## 🌟 About Me
-
-I have developed a robust skill set in utilizing AWS services to streamline operations and enhance software deployment processes. My proficiency includes tools such as **Jenkins**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**, which allow me to effectively manage infrastructure as code and automate workflows. I am eager to join an innovative organization where I can leverage my skills and contribute to impactful projects while continuing to grow professionally in the dynamic field of DevOps.
-
----
-
-## 🛠️ Summary of Qualifications
-- 🔧 **CI/CD Expertise:** Proven experience in implementing continuous integration and deployment pipelines.
-- ⚙️ **Tool Proficiency:** Skilled in Jenkins, Docker, Kubernetes, Terraform, and Ansible for automation and infrastructure management.
-- 📊 **SLA Commitment:** Focused on maintaining Service Level Agreements (SLAs) for system reliability.
-- 📚 **SDLC Knowledge:** Strong understanding of the Software Development Life Cycle (SDLC) for effective collaboration.
-
----
-
-## 💻 Technical Skills
-
-### ☁️ Cloud Platforms
-- **AWS:** EC2, IAM, VPC, S3, RDS, Lambda, EKS, CloudFormation, CloudWatch
-
-### 🔄 CI/CD Tools
-- Jenkins, GitHub Actions, GitLab CICD, AWS Developer Tools, ArgoCD
-
-### 💻 Programming Languages
-- Python, SQL, Bash Scripting
-
-### 🛠️ Infrastructure as Code
-- Terraform, CloudFormation
-
-### 📈 Monitoring & Logging
-- Prometheus, Grafana, ELK
-
-### 🐳 Containerization
-- Docker, Kubernetes
-
-### 🖥️ Operating Systems
-- Linux, Windows
-
-### ✅ Code Quality & Configuration Management
-- SonarQube, Ansible
-
-### 🔄 Build Automation & Version Control
-- Maven, Git
-
----
-
-## 🚀 Relevant Experience
-
-### DevOps Engineer at TCS 
-**Project: Java Application Development**
-- ⚡ Provisioned AWS infrastructure using Terraform.
-- 📜 Developed and updated Ansible playbooks for configuration management.
-- 🔄 Monitored and managed Jenkins CI/CD pipelines.
-- 🛠️ Automated application builds using Maven.
-- 🌐 Deployed applications to AWS environments.
-- 🔍 Managed source code using Git.
-- 🐳 Orchestrated containerized applications using Kubernetes.
-- 🚀 Implemented continuous delivery with ArgoCD for Kubernetes deployments.
-- 🐋 Created and managed Docker containers for application deployment.
-- ⚙️ Wrote and maintained Bash scripts for automation tasks.
-
-
----
-
-## 💪 Strengths
-- 🤖 **AI Utilization:** Effectively use AI tools to enhance productivity.
-- 🧩 **Problem-Solving:** Strong analytical skills for identifying issues and developing solutions efficiently.
-- 🤝 **Collaboration:** Excel in team settings with open communication.
-- ⏰ **Time Management:** Prioritize tasks effectively to meet deadlines while maintaining quality.
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊✨
+*“Platform Engineering isn’t about building infrastructure; it’s about building a product for engineers.”*
