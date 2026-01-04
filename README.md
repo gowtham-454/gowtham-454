@@ -48,8 +48,9 @@ To support the scale of my daily operations, I have developed specialized automa
 
 ## 📫 Connect with Me
 - 📧 **Email:** [kadiyam.gj@gmail.com](mailto:kadiyam.gj@gmail.com)
+- - 📞 **Phone:** +91 9177847988
 - 💼 **LinkedIn:** [linkedin.com/in/gowtham-kadiyam](https://www.linkedin.com/in/gowtham-kadiyam)
-- 📞 **Phone:** +91 9177847988
+
 
 ---
 *“Platform Engineering isn’t about building infrastructure; it’s about building a product for engineers.”*
